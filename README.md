@@ -1,2 +1,2 @@
 # python_for_datascience
-This is a description
+This repository is for data science beginner
